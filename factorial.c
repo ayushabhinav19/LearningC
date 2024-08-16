@@ -17,7 +17,3 @@ int main(){
     printf("the factorial of %d is %d",number,fact);
     return 0;
 }
-
-//U
-//A 
-//M
